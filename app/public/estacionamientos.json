@@ -1,0 +1,30 @@
+ [
+{
+	"Id":"10",
+        "Direccion":"Coliseo Ciudad de Loja",
+        "Longitud":"2.180042",
+        "Latitud":"41.497972",
+        "Capacidad":"6"
+       
+},
+{
+	"Id":"11",
+        "Direccion":"Parque Central de Loja",
+        "Longitud":"21.17706",
+        "Latitud":"41.39553",
+        "Capacidad":"10"
+},
+{
+	"Id":"12",
+        "Direccion":"Parque Jipiro",
+        "Longitud":"2.18149",
+        "Latitud":"41.3937",
+        "Capacidad":"10"
+},
+{
+	"Id":"13",
+        "Direccion":"Municipio de Loja",
+        "Longitud":"2.183141",
+        "Latitud":"41.394072",
+        "Capacidad":"5"
+}]

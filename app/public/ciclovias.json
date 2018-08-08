@@ -1,0 +1,25 @@
+ [
+{
+	"Id":"20"
+        "Inicio":"Parque Jipiro"
+        "Fin":"Orillas del Zamora"
+       
+},
+{
+	"Id":"21"
+        "Inicio":"Calle Guayaquil"
+        "Fin":"Santiago de las montañas"
+       
+},
+{
+	"Id":"22"
+        "Inicio":"Jose Felix Valdiviezo"
+        "Fin":"Segundo Cueva Celi"
+       
+},
+{
+	"Id":"23"
+        "Inicio":"24 de Mayo"
+        "Fin":"Lourdes"
+       
+}]

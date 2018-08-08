@@ -1,0 +1,23 @@
+[
+        {
+	"lugar_ruta":"Sendero Podocarpus",
+	"km_inicio":"10 km",
+	"km_fin":"40 km",
+	"distancia_ruta":"36,19 km"
+        },
+        {
+	"lugar_ruta":"Villonaco",
+	"km_inicio":"20 km",
+	"km_fin":"60 km",
+       	"distancia_ruta":"42,51 km"
+       },
+       {
+	"lugar_ruta":"Zalapa",
+	"km_inicio":"15 km",
+	"km_fin":"40 km",
+	"distancia_ruta":"25 km"
+        }
+]
+
+
+

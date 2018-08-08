@@ -1,0 +1,64 @@
+h1{
+	background: #16A085;
+	padding:40px;
+}
+
+h2{
+	text-align: center;
+}
+body{
+	margin:0;
+	background: gray;
+	font-family:arial;
+}
+
+.container{
+
+width: 1050px;
+background: white;
+margin: auto;
+border-radius: 25px;
+
+}
+.menu li{
+	display: inline-block;
+}
+.menu{
+	float: right;
+}
+.menu a{
+	color: black;
+	text-decoration: none;
+	padding: 20px; 
+}
+
+.menu a:hover{
+	background: #2874A6  ;
+}
+
+.col{
+
+	width: 200px;
+    display: inline-block;
+	vertical-align: top;
+	text-align: justify;
+	padding: 60px;
+	
+}
+
+.col h2{
+
+	color:#922B21;
+	text-align: center;
+
+}
+
+#bici2{
+	
+    margin-top:-20px;
+	width: 100px;
+	height: 95px;
+    margin-left: 300px;
+    padding: 0px;
+
+}

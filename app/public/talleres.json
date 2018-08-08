@@ -1,0 +1,23 @@
+ [
+{
+	"nombre":"Bicimania",
+	"direccion": "Emiliano Ortega",
+	"telefono": "(07) 272-3318",
+	"email": "@bicimanialoja",
+	"horario": "Sabado"
+},
+{
+	"nombre": "Bike Center",
+	"direccion": "Salvador B Celi",
+	"telefono": "(07) 272-0725",
+	"email": "@bikecenterloja",
+	"horario": "Lunes-Viernes"
+},
+{
+	"nombre": "La Catalina",
+	"direccion": "Jose Felix Valdivieso",
+	"telefono": "0984305626",
+	"email": "@lacatalina.ec",
+	"horario": "Lunes-Viernes"
+}
+]
